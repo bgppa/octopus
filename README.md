@@ -1,4 +1,4 @@
-*LEGACY CODE*
+*LEGACY CODE* Here for nostalgia.
 
 OCTOPUS is a structured collection of mathematical utilities arising
 during my PhD studies.
