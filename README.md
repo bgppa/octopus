@@ -1,9 +1,8 @@
 **LEGACY CODE**
 
-OCTOPUS is a structured collection of mathematical utilities arising
-during my PhD studies.
-
-It is intended to be an exercise to improve my programming skills
+OCTOPUS is a structured collection of mathematical utilities I wrote for myself at the
+beginning of my PhD.
+It was intended to be an **exercise** to improve my programming skills
 and check empirically how many theoretical results behave in practice.
 
 The **core** problem is here explained.
